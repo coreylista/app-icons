@@ -17,6 +17,8 @@
                 "ver": "5.0.0"
             }
         }
+    },
+    "analytics": {
+        "allowCmdCollect": true
     }
 }
-
