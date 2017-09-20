@@ -1,6 +1,15 @@
+V5.0.0920 (September 20th, 2017):
+▔▔▔▔▔▔▔▔▔▔▔
+Echosistant App:
+• UPDATED: App now supports upcoming command changes from Lambda 
+
+Profile App v5.0.0920:
+• ADDED: New Single device input grouped by capabilities
+• FIXED: Lots and lots of bug
+
 V5.0.0 Alpha (August 29th, 2017):
 ▔▔▔▔▔▔▔▔▔▔▔
-Echosistan App:
+Echosistant App:
 • ADDED: Added new changelog and update notifications
 
 Profile App v5.0.0 Alpha:
