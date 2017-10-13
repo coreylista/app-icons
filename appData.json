@@ -7,10 +7,10 @@
             "profile": {
                 "ver": "5.0.0"
             },
-            "storage": {
+            "shortcuts": {
                 "ver": "5.0.0"
             },
-            "shortcuts": {
+            "storage": {
                 "ver": "5.0.0"
             },
             "lambda": {
